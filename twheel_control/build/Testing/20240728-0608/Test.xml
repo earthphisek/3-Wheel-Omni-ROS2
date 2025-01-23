@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240728-0608-Experimental"
+	Name="earththesis-NUC8i7BEH"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="earththesis-NUC8i7BEH"
+	OSRelease="6.5.0-44-generic"
+	OSVersion="#44~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Jun 18 14:36:16 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="23892"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4106.19"
+	>
+	<Testing>
+		<StartDateTime>Jul 28 13:08 +07</StartDateTime>
+		<StartTestTime>1722146886</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 28 13:08 +07</EndDateTime>
+		<EndTestTime>1722146886</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

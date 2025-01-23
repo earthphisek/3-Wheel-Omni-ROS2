@@ -1,0 +1,11 @@
+/home/earththesis/ros2_directory/3wheel_ws/src/twheel_control/build/CMakeFiles/uninstall.dir
+/home/earththesis/ros2_directory/3wheel_ws/src/twheel_control/build/CMakeFiles/twheel_control_uninstall.dir
+/home/earththesis/ros2_directory/3wheel_ws/src/twheel_control/build/CMakeFiles/ament_cmake_python_copy_twheel_control.dir
+/home/earththesis/ros2_directory/3wheel_ws/src/twheel_control/build/CMakeFiles/ament_cmake_python_build_twheel_control_egg.dir
+/home/earththesis/ros2_directory/3wheel_ws/src/twheel_control/build/CMakeFiles/test.dir
+/home/earththesis/ros2_directory/3wheel_ws/src/twheel_control/build/CMakeFiles/edit_cache.dir
+/home/earththesis/ros2_directory/3wheel_ws/src/twheel_control/build/CMakeFiles/rebuild_cache.dir
+/home/earththesis/ros2_directory/3wheel_ws/src/twheel_control/build/CMakeFiles/list_install_components.dir
+/home/earththesis/ros2_directory/3wheel_ws/src/twheel_control/build/CMakeFiles/install.dir
+/home/earththesis/ros2_directory/3wheel_ws/src/twheel_control/build/CMakeFiles/install/local.dir
+/home/earththesis/ros2_directory/3wheel_ws/src/twheel_control/build/CMakeFiles/install/strip.dir

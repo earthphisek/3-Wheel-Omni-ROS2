@@ -1,0 +1,4 @@
+source;share/twheel_control/local_setup.bash
+source;share/twheel_control/local_setup.dsv
+source;share/twheel_control/local_setup.sh
+source;share/twheel_control/local_setup.zsh
