@@ -6,8 +6,11 @@ https://www.researchgate.net/publication/327484549_Review_of_Wheeled_Mobile_Robo
 use Python Serial with ESP32 to control the Low level
 
 Twheel_Lowlevel -> Arduino code
+
 twheel_control -> ROS2 to connect with ESP32 (Serial_Arduino.py)
-twheel_description -> custom model of 3-Wheel Omni Robot 
+
+twheel_description -> custom model of 3-Wheel Omni Robot
+ 
 twheel_mavigation -> navigation of 3-Wheel Omni Robot in Gazebo
 
  
